@@ -1,5 +1,5 @@
 # starter-kit
-Quick start for a new website. Live server, sass compilation,
+Quick start for a new website. Live server, sass compilation, prefixes
 
 ## Installation
 1. clone or download the project
