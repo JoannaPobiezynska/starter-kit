@@ -15,7 +15,7 @@ npm install
 ```
 npm run start
 ```
-2. if you are not using icon fonts in your project remove fonts folder and icon-font.css file from css folder
+2. if you are not using icon fonts in your project remove fonts folder and icon-font.css file from css folder or add your own fonts to the folder and replace the css/font-icon.css file
 
 ## Build
 1. build your project with npm run build. if you are not using icon-fonts please make sure to remove css/icon-font.css from concat:css script
