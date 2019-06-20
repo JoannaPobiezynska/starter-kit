@@ -6,7 +6,10 @@ Quick start for a new website. Live server, sass compilation, prefixes
 ```
 git clone https://github.com/JoannaPobiezynska/starter-kit
 ```
-2. install all dependencies
+2. install live-server and all dependencies
+```
+npm install live-server -g
+```
 ```
 npm install
 ```
@@ -20,7 +23,7 @@ npm run start
 ## Build
 1. build your project with npm run build. if you are not using icon-fonts please make sure to remove css/icon-font.css from concat:css script
 ```
-npm run build
+npm run build:css
 ```
 2. remove link to icon-font stylesheet from the head of your index file. this file is already added to your minimized css
 ```
